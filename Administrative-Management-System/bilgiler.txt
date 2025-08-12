@@ -1,0 +1,44 @@
+İsim: Abdulkadir, Soyisim: Bulut, TC: 32730083384, Branş: Edebiyat, Maaş: 40550, Telefon Numarası: 8394166909, ID: Am47Am
+İsim: Feyza, Soyisim: Emiroğulları, TC: 42141335104, Branş: Yapay Zeka, Maaş: 31605, Telefon Numarası: 7301712394, ID: df32df
+İsim: Nihat, Soyisim: Candan TC: 11499401413, Branş: Edebiyat, Maaş: 44361, Telefon Numarası: 6170545098, ID: ug31ug
+İsim: Sami, Soyisim: Bulut, TC: 77006583317, Branş: Yapay Zeka, Maaş: 21725, Telefon Numarası: 2146627419, ID: El03El
+İsim: Ebru, Soyisim: Türk, TC: 06979683972, Branş: Edebiyat, Maaş: 29962, Telefon Numarası: 2688268357, ID: uR34uR
+İsim: Mete, Soyisim: Türk, TC: 95665058499, Branş: Yapay Zeka, Maaş: 39665, Telefon Numarası: 3931890940, ID: qR03qR
+İsim: Ferhat, Soyisim: Yılmaz, TC: 49289316465, Branş: Yapay Zeka, Maaş: 38619, Telefon Numarası: 7335985775, ID: yi42yi
+İsim: Abdullah, Soyisim: Türk, TC: 55867916973, Branş: Coğrafya, Maaş: 32922, Telefon Numarası: 6126296872, ID: zM17zM
+İsim: Tacettin, Soyisim: Bulut, TC: 37806603186, Branş: Coğrafya, Maaş: 26823, Telefon Numarası: 5002195760, ID: pH25pH
+İsim: Alp, Soyisim: Türk, TC: 67730725302, Branş: Coğrafya, Maaş: 25988, Telefon Numarası: 2988574740, ID: Gk74Gk
+İsim: Gülşah, Soyisim: Yılmaz, TC: 03733289441, Branş: Yapay Zeka, Maaş: 42662, Telefon Numarası: 0184807075, ID: mK54mK
+İsim: Tarık, Soyisim: Çakır, TC: 14267916321, Branş: Coğrafya, Maaş: 22772, Telefon Numarası: 3097290352, ID: XA93XA
+İsim: Mehmet, Soyisim: Yılmaz, TC: 87563914438, Branş: Coğrafya, Maaş: 40035, Telefon Numarası: 9606088992, ID: am24am
+İsim: Nuray, Soyisim: Çakır, TC: 47984474462, Branş: Coğrafya, Maaş: 19004, Telefon Numarası: 5737152351, ID: nb21nb
+İsim: Berk, Soyisim: Yılmaz, TC: 41541966781, Branş: Tıp, Maaş: 22401, Telefon Numarası: 5773084494, ID: RI71RI
+İsim: Kerem, Soyisim: Türk, TC: 53208435799, Branş: Coğrafya, Maaş: 22211, Telefon Numarası: 8542330906, ID: MV43MV
+İsim: Kerim, Soyisim: Çetin, TC: 43223911525, Branş: Coğrafya, Maaş: 34164, Telefon Numarası: 8675539640, ID: Nr32Nr
+İsim: Necmi, Soyisim: Candan, TC: 78768574790, Branş: Tıp, Maaş: 27356, Telefon Numarası: 5225745873, ID: PE49PE
+İsim: Yunus, Soyisim: Türk, TC: 99669368847, Branş: Tıp, Maaş: 48794, Telefon Numarası: 7933849785, ID: Uh46Uh
+İsim: Emre, Soyisim: Özdemir, TC: 95389741908, Branş: Mühendislik, Maaş: 46038, Telefon Numarası: 2664181521, ID: Ud67Ud
+İsim: Emrullah, Soyisim: Beyoğlu, TC: 07492510554, Branş: Coğrafya, Maaş: 23787, Telefon Numarası: 0833440877, ID: aC65aC
+İsim: Merve, Soyisim: Kadiroğulları, TC: 70621755369, Branş: Coğrafya, Maaş: 23185, Telefon Numarası: 0395282964, ID: mb55mb
+İsim: Solmaz, Soyisim: Tarhana, TC: 88968104123, Branş: Edebiyat, Maaş: 25044, Telefon Numarası: 0752645704, ID: gc63gc
+İsim: Necmettin, Soyisim: Yılmaz, TC: 94100333776, Branş: Yapay Zeka, Maaş: 20788, Telefon Numarası: 3286963513, ID: SK05SK
+İsim: Recep, Soyisim: Çalhanoğlu, TC: 12620854915, Branş: Mühendislik, Maaş: 47311, Telefon Numarası: 6373365161, ID: Ta71Ta
+İsim: Kemal, Soyisim: Alemdar, TC: 95543586095, Branş: Tıp, Maaş: 49504, Telefon Numarası: 0916110974, ID: EB02EB
+İsim: Tuana, Soyisim: Çakırbeyli, TC: 89703252769, Branş: Coğrafya, Maaş: 47172, Telefon Numarası: 9443687195, ID: Nq13Nq
+İsim: Taha, Soyisim: Çakır, TC: 77393880394, Branş: Tıp, Maaş: 41432, Telefon Numarası: 9455927867, ID: vw81vw
+İsim: Zeynep, Soyisim: Doğan, TC: 88690366641, Branş: Mühendislik, Maaş: 32960, Telefon Numarası: 0533296537, ID: bO52bO
+İsim: Elif, Soyisim: Benli, TC: 50970107949, Branş: Yapay Zeka, Maaş: 44306, Telefon Numarası: 9532989239, ID: gv51gv
+İsim: Niyazi, Soyisim: Çetin, TC: 47654189946, Branş: Edebiyat, Maaş: 27930, Telefon Numarası: 6527441535, ID: Tt30Tt
+İsim: Onur, Soyisim: Niyaz, TC: 94466757056, Branş: Mühendislik, Maaş: 37195, Telefon Numarası: 1994382921, ID: oE50oE
+İsim: Samet, Soyisim: Kılıçlar, TC: 93265642553, Branş: Tıp, Maaş: 42324, Telefon Numarası: 9464782591, ID: IF75IF
+İsim: Nurullah, Soyisim: Erdoğan, TC: 59371079551, Branş: Yapay Zeka, Maaş: 24056, Telefon Numarası: 5885128061, ID: jO79jO
+İsim: Mustafa, Soyisim: Kılıçarslan, TC: 77653796733, Branş: Edebiyat, Maaş: 29620, Telefon Numarası: 4460343415, ID: Hj77Hj
+İsim: Hatice, Soyisim: Kılıç, TC: 92507411927, Branş: Tıp, Maaş: 17992, Telefon Numarası: 6733516775, ID: yV03yV
+İsim: Hasan, Soyisim: Türk, TC: 45444325055, Branş: Yapay Zeka, Maaş: 27057, Telefon Numarası: 2770203016, ID: nr74nr
+İsim: Fırat, Soyisim: Aktürk, TC: 13627364391, Branş: Mühendislik, Maaş: 30008, Telefon Numarası: 6541660909, ID: Bb56Bb
+İsim: Bilal, Soyisim: Gergin, TC: 30654883994, Branş: Yapay Zeka, Maaş: 21037, Telefon Numarası: 1388079166, ID: eO12eO
+İsim: Kürşat, Soyisim: Bulut, TC: 16159609164, Branş: Edebiyat, Maaş: 46253, Telefon Numarası: 2292399005, ID: WF28WF
+İsim: Nazım, Soyisim: Çetin TC: 30636563476, Branş: Tıp, Maaş: 39682, Telefon Numarası: 4140149203, ID: eu52eu
+İsim: Emir, Soyisim: Tahta, TC: 08846240805, Branş: Mühendislik, Maaş: 36000, Telefon Numarası: 2602671906, ID: YD42YD
+İsim: Abdullah, Soyisim: Kar, TC: 23123123123, Branş: Matematik, Maaş: 19452, Telefon Numarası: 05544428957, ID: df78op
+İsim: Bekir, Soyisim: İrten, TC: 12547896325, Branş: Psikoloji, Maaş: 45700, Telefon Numarası: 55544477888, ID: aa45lk
